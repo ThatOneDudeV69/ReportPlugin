@@ -1,0 +1,5 @@
+asyncio==3.4.3
+py-cord==2.6.1
+chat-exporter
+pytz
+datetime
