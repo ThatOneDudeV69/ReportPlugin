@@ -11,9 +11,6 @@ A simple Paper plugin that allows players to report others, sending the report t
 ## Commands
 - `/report <player> <reason>` - Reports a player for a specific reason.
 
-## Permissions
-- `report.use` - Allows a player to use the `/report` command.
-
 ## Installation
 1. Download the latest release of the plugin.
 2. Place the `.jar` file in your server’s `plugins` folder.
